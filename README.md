@@ -1,13 +1,13 @@
   <!DOCTYPE html>
   <html>
       <head>
+            <meta charset="UTF-8">
             <title>CV numérique</title>
-      <link rel="stylesheet" href="file:///E:/cv%20github/css%20projet.css">
+      <link rel="stylesheet" href="https://letcho.alwaysdata.net/style.css">
           </head>
       <body>
         <div class="gallery">
-          <a target="_blank" href="c:\Users\letch\Downloads\IMG_6776.jpeg">
-            <img src="IMG_6776" alt="IMG_6776" width="600" height="400">
+            <img src="IMG_8101.jpg" width="30" height="30" alt="IMG_8101">
         <h1>Letcho MOIGNY</h1>
         <address>
           18 rue de Longeraie <br>
